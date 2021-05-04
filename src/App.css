@@ -1,0 +1,23 @@
+.linha{
+    display: flex;
+    margin: 30px;
+    justify-content:space-around;
+}
+
+h1{
+    text-align: center;
+    font-family: Apple Chancery, cursive;
+    border: 7px inset;
+    color: white;
+    border-color: rgb(31, 126, 150);
+    
+}
+
+.App{
+    max-width: 900px;
+    margin: auto;
+}
+
+.tituloCard{
+    color: white;
+}
